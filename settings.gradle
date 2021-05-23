@@ -1,0 +1,2 @@
+rootProject.name = "ShivanshMusicPlayer"
+include ':app'
